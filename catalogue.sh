@@ -2,6 +2,7 @@
 
 source ./common.sh
 app_name=catalogue
+SCRIPT_DIR=$PWD
 
 check_root
 app_setup
